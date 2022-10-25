@@ -1,4 +1,4 @@
-package histogramVis;
+package histogramUtility;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

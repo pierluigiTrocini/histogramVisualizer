@@ -1,4 +1,4 @@
-package histogramVis;
+package histogramUtility;
 
 public class Pair {
 	private String first;
